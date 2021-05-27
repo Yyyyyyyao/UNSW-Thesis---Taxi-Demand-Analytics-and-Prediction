@@ -22,7 +22,7 @@ This thesis project will utilize the Long-Short Term Memory model, which is popu
   * Long-short term memory model
   * XGBoost model
 * **Evaluation**
-  * MSE
+  * MAE
   * RMSE
   * MPE
 
